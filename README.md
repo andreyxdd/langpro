@@ -1,3 +1,3 @@
 # LangPro
 
-Read data contents of osbidian files and process it with NLP.
+Read notes from osbidian and process them with NLP.
