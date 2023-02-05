@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Number Threee.md",
+                "file": "Note Number One.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "right": {
     "id": "886ac5c9dec79ce5",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Number Threee.md",
+                "file": "Note Number One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Number Threee.md",
+                "file": "Note Number One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Number Threee.md"
+                "file": "Note Number One.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "e77d237983e761fc",
   "lastOpenFiles": [
-    "Note Number One.md",
     "Note Number Threee.md",
+    "Note Number One.md",
     "Note n.2.md"
   ]
 }

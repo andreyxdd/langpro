@@ -19,7 +19,7 @@ export default class MyPlugin extends Plugin {
 		// This creates an icon in the left ribbon.
 		const ribbonIconEl = this.addRibbonIcon('dice', 'LangPro Plugin',async (evt: MouseEvent) => {
 			// Called when the user clicks the icon.
-			 const { vault } = this.app;
+			const { vault } = this.app;
 
 			const fileContents: string[] = await Promise.all(
 				vault.getMarkdownFiles().map((file) => vault.cachedRead(file))
@@ -33,7 +33,7 @@ export default class MyPlugin extends Plugin {
 				},
 				body: Buffer.from(JSON.stringify({contents: fileContents}))  // body must be a Node Buffer or null
 			})
-				.then(function(resultBuffer:any) {                   // response is also a Node Buffer
+				.then(function(resultBuffer:any) { // response is also a Node Buffer
 					var result = JSON.parse(resultBuffer.toString());
 					console.log(result);
 					new Notice(result.status);

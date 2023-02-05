@@ -7,6 +7,7 @@ app = FastAPI()
 class Notes(BaseModel):
     contents: List[str]
 
+
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
