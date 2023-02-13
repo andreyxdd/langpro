@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note n.2.md",
+                "file": "Short-Time Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Number One.md",
+                "file": "Short-Time Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Number One.md",
+                "file": "Short-Time Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Number One.md",
+                "file": "Short-Time Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Number One.md"
+                "file": "Short-Time Fourier Transform.md"
               }
             }
           }
@@ -176,6 +176,6 @@
   "lastOpenFiles": [
     "Note Number Threee.md",
     "Note Number One.md",
-    "Note n.2.md"
+    "Short-Time Fourier Transform.md"
   ]
 }

@@ -1,1 +1,0 @@
-Is it me who's a total slowpoke? Or you??
